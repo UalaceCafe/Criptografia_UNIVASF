@@ -6,13 +6,13 @@ Este programa implementa na linguagem _C_ uma interface em linha de comando para
 
 ## Como compilar
 
-* Com o _make_ instalado:
+### Com o _make_:
   No diretório principal do projeto, execute o comando:
   ```bash
   make
   ```
 
-* Sem o _make_:
+### Sem o _make_:
   No diretório principal do projeto, execute o comando:
   ```bash
   gcc -std=c99 -O2 src/main.c lib/aes.c -DCBC=1 -o bin/aes
