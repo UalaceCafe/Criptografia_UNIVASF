@@ -7,3 +7,4 @@ Este projeto contém atividades e códigos extras desenvolvidos na disciplina de
 ## Atividades
 
 * [atv3_hill_cipher](atv3_hill_cipher/) - Implementação em _Ruby_ da Cifra de Hill.
+* [atv5_aes](atv5_aes/) - Programa em _C_ que utiliza o AES no modo CBC.
